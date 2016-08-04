@@ -1,0 +1,35 @@
+_repo: The-Rainbow-Trail_5067
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Pearl Zane
+    - Gray, Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: This sequel to Zane Grey's enormously popular Riders of the Purple Sage
+  picks up ten years after the events of the previous novel. Tragedy has befallen
+  the community of Surprise Valley, and changing views among the largely Mormon populace
+  have begun to create rifts in the community. The Rainbow Trail includes plenty of
+  the adventure and romance that fans of Zane Grey's work have come to love.
+gutenberg_bookshelf: Western
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5067'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'Frontier and pioneer life -- Fiction'
+- !lcsh 'Arizona -- Fiction'
+- GITenberg
+title: The Rainbow Trail
+url: http://www.gutenberg.org/ebooks/5067
